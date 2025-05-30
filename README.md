@@ -1,8 +1,17 @@
-
 # 📄 LangChain Document Loaders and Text Splitters – A Practical Guide
 
-LangChain supports multiple document loaders and text splitting strategies for preprocessing various types of data. This guide includes examples for loading text, PDF, web content, Arxiv, and Wikipedia, as well as different text splitting techniques.
+LangChain offers a powerful ecosystem for **loading**, **chunking**, and **preprocessing** unstructured data, making it suitable for downstream tasks involving large language models (LLMs). This hands-on guide walks through:
 
+- How to load documents from various sources: **Text**, **PDF**, **Web**, **ArXiv**, and **Wikipedia**
+- How to split and structure text efficiently using LangChain’s built-in **text splitters**
+
+Whether you're building a retrieval-augmented generation (RAG) pipeline or simply preparing input for large language models (LLMs), these tools are essential.
+
+
+📘 **References**  
+- 🔗 [Document Loaders](https://python.langchain.com/docs/integrations/document_loaders/)  
+- 🔗 [Text Splitters](https://python.langchain.com/docs/concepts/text_splitters/)  
+- 📺 Course Inspiration: *Krish Naik’s AI Series*
 ---
 
 ## 📚 Table of Contents
